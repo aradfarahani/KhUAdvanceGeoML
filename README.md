@@ -1,6 +1,6 @@
-# KhUAdvanceML
+# KhUAdvanceGeoML
 ![Python Advance](https://github.com/aradfarahani/KhUAdvanceML/assets/90475349/363d39f1-c220-45dc-a3c6-7c9c9b9e3724)
-# Advanced Python and Machine Learning Workshop
+# Advanced Python and Machine Learning Workshop(for earth science students)
 
 ## Overview
 Welcome to the Advanced Python and Machine Learning Workshop README. This workshop is organized by the Geology Society of Kharazmi University in collaboration with the Water Research Center. It is designed to provide participants with in-depth knowledge and practical skills in Python programming and machine learning applications.
