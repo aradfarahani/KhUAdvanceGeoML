@@ -43,9 +43,8 @@ Workshop materials, including slides, datasets, and code examples, will be provi
 
 ## Reference
 * Petrelli, M. (2021). Introduction to python in earth science data analysis: from descriptive statistics to machine learning. Springer Nature.
-![image](https://github.com/aradfarahani/KhUAdvanceML/assets/90475349/372ab2a1-aad1-4655-9a4a-3799abd1288e)
-*Petrelli, M. (2023). Machine Learning for Earth Sciences. Springer Nature.
-![image](https://github.com/aradfarahani/KhUAdvanceML/assets/90475349/bae54721-ef50-44da-bfc1-258173419243)
+
+* Petrelli, M. (2023). Machine Learning for Earth Sciences. Springer Nature.
 
 
 ## Registration
