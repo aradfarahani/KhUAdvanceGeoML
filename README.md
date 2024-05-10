@@ -59,7 +59,7 @@ Workshop materials, including slides, datasets, and code examples, will be provi
 
 * [Petrelli, M. (2023). Machine Learning for Earth Sciences. Springer Nature.](https://www.springerprofessional.de/en/machine-learning-for-earth-sciences/26078378)
   
-*[Trauth, M. H. (2022). Python recipes for earth sciences. Springer Nature.](https://link.springer.com/book/10.1007/978-3-031-07719-7)
+* [Trauth, M. H. (2022). Python recipes for earth sciences. Springer Nature.](https://link.springer.com/book/10.1007/978-3-031-07719-7)
 
 ## Registration
 For registration details, please contact the Geology Society at Kharazmi University.
