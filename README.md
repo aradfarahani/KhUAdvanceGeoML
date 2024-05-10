@@ -6,12 +6,10 @@
 Welcome to the Advanced Python and Machine Learning Workshop README. This workshop is organized by the Geology Society of Kharazmi University in collaboration with the Water Research Center. It is designed to provide participants with in-depth knowledge and practical skills in Python programming and machine learning applications.
 
 ## Instructors
-![1703107570412](https://github.com/aradfarahani/KhUAdvanceML/assets/90475349/3ecdda65-3903-46ce-9b32-67a6f2fdfe74)
 - **Nima Raeisi**
-![Mahdi-Farmahini-Farahani](https://github.com/aradfarahani/KhUAdvanceML/assets/90475349/1b1447b4-b50d-41c7-9b70-9e8a67b8ce13)
-
+Hydrogeology Graduate Student @ KhU
 - **Mahdi Farmahini Farahani**
-
+Geology Undergraduate Student @ KhU
 ## Duration
 April to June 2024
 
@@ -42,6 +40,13 @@ The workshop includes the following modules:
 
 ## Materials
 Workshop materials, including slides, datasets, and code examples, will be provided.
+
+## Reference
+* Petrelli, M. (2021). Introduction to python in earth science data analysis: from descriptive statistics to machine learning. Springer Nature.
+![image](https://github.com/aradfarahani/KhUAdvanceML/assets/90475349/372ab2a1-aad1-4655-9a4a-3799abd1288e)
+*Petrelli, M. (2023). Machine Learning for Earth Sciences. Springer Nature.
+![image](https://github.com/aradfarahani/KhUAdvanceML/assets/90475349/bae54721-ef50-44da-bfc1-258173419243)
+
 
 ## Registration
 For registration details, please contact the Geology Society at Kharazmi University.
