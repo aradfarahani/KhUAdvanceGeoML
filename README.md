@@ -6,7 +6,7 @@
 Welcome to the Advanced Python and Machine Learning Workshop README. This workshop is organized by the Geology Society of Kharazmi University in collaboration with the Water Research Center. It is designed to provide participants with in-depth knowledge and practical skills in Python programming and machine learning applications.
 
 ## Instructors
-- **Nima Raeisi**
+- [**Nima Raeisi**](https://github.com/NimaRaeisi)
 Hydrogeology Graduate Student @ KhU<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimaraeisi)  [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Nima-Raeisi-2)
 - **Mahdi Farmahini Farahani**
