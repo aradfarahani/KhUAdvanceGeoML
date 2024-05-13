@@ -8,7 +8,19 @@ Welcome to the Advanced Python and Machine Learning Workshop README. This worksh
 ## Instructors
 - [**Nima Raeisi**](https://github.com/NimaRaeisi)
 Graduate Hydrogeology Student @ KhU<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimaraeisi)  [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Nima-Raeisi-2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimaraeisi)  [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Nima-Raeisi-2)<br>    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0003-7073-0068"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0003-7073-0068
+    </a>
 - [**Mahdi Farmahini Farahani**](https://github.com/aradfarahani)
 Undergraduate Geology Student @ KhU <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arad.farahani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aradfarahani) [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani) [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=kUQR1egAAAAJ&hl=en) [![Website Badge](https://img.shields.io/badge/My-Website-red)](http://mahdifarmahinifarahani.cvbuilder.me/en) <br> <a
