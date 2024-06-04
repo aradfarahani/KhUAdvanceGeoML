@@ -73,12 +73,12 @@ Workshop materials, including slides, datasets, and code examples, will be provi
   
 * [Trauth, M. H. (2022). Python recipes for earth sciences. Springer Nature.](https://link.springer.com/book/10.1007/978-3-031-07719-7)
   
-* Muñoz Sabater, J. (2019): ERA5-Land monthly averaged data from 1950 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). DOI: 10.24381/cds.68d2bb30 (Accessed on 03-06-2024)
+* [Muñoz Sabater, J. (2019): ERA5-Land monthly averaged data from 1950 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). DOI: 10.24381/cds.68d2bb30 (Accessed on 03-06-2024)](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=overview)
 ## Registration
 For registration details, please contact the Geology Society at Kharazmi University.
 
 ## Acknowledgments
-We would like to thank the Geology Society of Kharazmi University and the Water Research Center for their support in making this workshop possible.
+We would like to thank the Geological Society of Kharazmi University and the Water Research Center for their support in making this workshop possible.
 
 ## Contact
 For more information, please reach out to the workshop coordinators.
