@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/795745809.svg)](https://zenodo.org/doi/10.5281/zenodo.11472416)
+[![CodeFactor](https://www.codefactor.io/repository/github/aradfarahani/khuadvancegeoml/badge)](https://www.codefactor.io/repository/github/aradfarahani/khuadvancegeoml)[![DOI](https://zenodo.org/badge/795745809.svg)](https://zenodo.org/doi/10.5281/zenodo.11472416)
 # KhUAdvanceGeoML
 ![Python Advance](https://github.com/aradfarahani/KhUAdvanceML/assets/90475349/363d39f1-c220-45dc-a3c6-7c9c9b9e3724)
 # Advanced Python and Machine Learning Workshop(for earth science students)
